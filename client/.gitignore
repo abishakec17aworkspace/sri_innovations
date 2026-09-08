@@ -45,3 +45,5 @@ coverage/
 
 # Local configuration
 *.local
+
+//.env
