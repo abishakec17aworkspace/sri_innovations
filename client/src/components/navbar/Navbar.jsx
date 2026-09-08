@@ -45,7 +45,7 @@ export const Navbar = () => {
               <Wrench className="w-3.5 h-3.5" /> Book Doorstep Service
             </Link>
             <span className="text-slate-500">|</span>
-            <Link to="/about" className="hover:text-white transition-colors">About Us</Link>
+            <Link to="/about" className="hover:text-white transition-colors">AboutUs</Link>
             <Link to="/contact" className="hover:text-white transition-colors">Contact</Link>
             {isAdminAuthenticated ? (
               <Link to="/admin/dashboard" className="bg-brand-accent text-white px-2 py-0.5 rounded text-[11px] font-semibold hover:bg-brand-accent-hover transition-colors">
