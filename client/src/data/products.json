@@ -1,0 +1,438 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Sony Bravia 55-inch 4K Ultra HD Smart LED TV (KD-55X74L)",
+    "slug": "sony-bravia-55-inch-4k-smart-tv",
+    "category": "televisions",
+    "subcategory": "4K Ultra HD",
+    "brand": "Sony",
+    "sku": "SRI-SNY-55TV",
+    "price": 64990,
+    "discountPrice": 53990,
+    "stock": 14,
+    "lowStockThreshold": 3,
+    "rating": 4.8,
+    "reviewsCount": 86,
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Experience vivid color and lifelike detail with Sony Bravia 4K TV powered by X1 4K Processor and Dolby Audio.",
+    "specifications": {
+      "Display Size": "55 Inches",
+      "Resolution": "4K Ultra HD (3840 x 2160)",
+      "Refresh Rate": "60 Hz",
+      "Audio Output": "20W Dolby Audio",
+      "Operating System": "Google TV",
+      "HDMI Ports": "3 Ports",
+      "Warranty": "2 Years Comprehensive Brand Warranty"
+    },
+    "features": [
+      "Live Color technology for natural, vibrant shades",
+      "X-Protection PRO for dust, surge and humidity resistance",
+      "Google Assistant voice search with smart remote"
+    ]
+  },
+  {
+    "id": "prod-2",
+    "name": "Samsung 653L Frost-Free Double Door Side-by-Side Refrigerator",
+    "slug": "samsung-653l-side-by-side-refrigerator",
+    "category": "large-appliances",
+    "subcategory": "Refrigerators",
+    "brand": "Samsung",
+    "sku": "SRI-SAM-653REF",
+    "price": 94990,
+    "discountPrice": 79990,
+    "stock": 8,
+    "lowStockThreshold": 2,
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Convertible 5-in-1 Side by Side Refrigerator with Digital Inverter and SpaceMax Technology.",
+    "specifications": {
+      "Capacity": "653 Litres",
+      "Compressor": "Digital Inverter Technology",
+      "Energy Rating": "3 Star",
+      "Cooling": "Twin Cooling Plus",
+      "Warranty": "1 Year on Product, 20 Years on Compressor"
+    },
+    "features": [
+      "SpaceMax creates more internal storage without increasing external dimensions",
+      "Twin Cooling Plus maintains up to 70% humidity",
+      "Smart Convertible modes for energy efficiency"
+    ]
+  },
+  {
+    "id": "prod-3",
+    "name": "LG 8.0 Kg 5 Star AI Direct Drive Front Load Washing Machine",
+    "slug": "lg-8kg-front-load-washing-machine",
+    "category": "large-appliances",
+    "subcategory": "Washing Machines",
+    "brand": "LG",
+    "sku": "SRI-LG-8KGWM",
+    "price": 44990,
+    "discountPrice": 36490,
+    "stock": 12,
+    "lowStockThreshold": 4,
+    "rating": 4.7,
+    "reviewsCount": 65,
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "AI DD technology detects fabric softness and auto-selects optimal wash motion for best fabric care.",
+    "specifications": {
+      "Capacity": "8.0 Kg",
+      "Spin Speed": "1400 RPM",
+      "Energy Rating": "5 Star",
+      "Programs": "14 Wash Programs with Steam Hygiene",
+      "Warranty": "2 Years on Product, 10 Years on Motor"
+    },
+    "features": [
+      "AI Direct Drive Motor for 18% fabric protection",
+      "Steam Wash eliminates 99.9% allergens and dust mites",
+      "ThinQ Wi-Fi remote diagnostic and control"
+    ]
+  },
+  {
+    "id": "prod-4",
+    "name": "Logitech MX Master 3S Advanced Wireless Performance Mouse",
+    "slug": "logitech-mx-master-3s-mouse",
+    "category": "computers-laptops",
+    "subcategory": "Keyboards & Mice",
+    "brand": "Logitech",
+    "sku": "SRI-LOG-MX3S",
+    "price": 10995,
+    "discountPrice": 8495,
+    "stock": 25,
+    "lowStockThreshold": 5,
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Quiet clicks and 8K DPI track-on-glass sensor. The ultimate precision tool for developers, creators and power users.",
+    "specifications": {
+      "Sensor": "8000 DPI Darkfield High Precision",
+      "Battery": "Up to 70 Days on full charge",
+      "Connectivity": "Bluetooth Low Energy + Logi Bolt USB",
+      "Scroll": "MagSpeed Electromagnetic Scrolling (1000 lines/sec)",
+      "Warranty": "1 Year Limited Hardware Warranty"
+    },
+    "features": [
+      "Quiet Click buttons eliminate 90% click noise",
+      "Cross-computer Flow control between Mac and Windows",
+      "Ergonomic hand sculpted design"
+    ]
+  },
+  {
+    "id": "prod-5",
+    "name": "boAt Stone 1500 40W Rugged Bluetooth Speaker with RGB LEDs",
+    "slug": "boat-stone-1500-bluetooth-speaker",
+    "category": "audio",
+    "subcategory": "Bluetooth Speakers",
+    "brand": "boAt",
+    "sku": "SRI-BOAT-S1500",
+    "price": 6990,
+    "discountPrice": 3999,
+    "stock": 30,
+    "lowStockThreshold": 6,
+    "rating": 4.6,
+    "reviewsCount": 210,
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": true,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Unleash room-shaking 40W signature sound with punchy bass, IPX6 water resistance, and dynamic party lighting.",
+    "specifications": {
+      "Output": "40 Watts RMS",
+      "Playtime": "Up to 15 Hours",
+      "Water Resistance": "IPX6 Splash & Dust Resistant",
+      "TWS Feature": "Pair 2 Stone 1500 for 80W stereo",
+      "Warranty": "1 Year Manufacturer Warranty"
+    },
+    "features": [
+      "Dual passive radiators for deep low-end punch",
+      "Multiple playback modes: Bluetooth v5.0, AUX, USB",
+      "Built-in microphone for hands-free calling"
+    ]
+  },
+  {
+    "id": "prod-6",
+    "name": "Sony PlayStation 5 DualSense Wireless Controller - Midnight Black",
+    "slug": "ps5-dualsense-wireless-controller-black",
+    "category": "gaming",
+    "subcategory": "Controllers",
+    "brand": "Sony",
+    "sku": "SRI-SNY-DUAL-BLK",
+    "price": 5990,
+    "discountPrice": 5290,
+    "stock": 18,
+    "lowStockThreshold": 4,
+    "rating": 4.9,
+    "reviewsCount": 178,
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Heighten your senses with immersive haptic feedback and dynamic adaptive triggers designed for PS5 and PC gaming.",
+    "specifications": {
+      "Compatibility": "PS5, PC, iOS, Android",
+      "Haptics": "Dual Actuators Feedback",
+      "Battery": "Built-in rechargeable Li-ion",
+      "Audio": "Integrated speaker & 3.5mm headset jack",
+      "Warranty": "1 Year Official Sony Warranty"
+    },
+    "features": [
+      "Adaptive triggers with variable resistance levels",
+      "Create button to broadcast epic gaming moments",
+      "Motion sensor with built-in accelerometer and gyroscope"
+    ]
+  },
+  {
+    "id": "prod-7",
+    "name": "Samsung 980 PRO 1TB PCIe 4.0 NVMe M.2 Internal Gaming SSD",
+    "slug": "samsung-980-pro-1tb-nvme-ssd",
+    "category": "computer-hardware",
+    "subcategory": "Internal SSDs",
+    "brand": "Samsung",
+    "sku": "SRI-SAM-980PRO",
+    "price": 12999,
+    "discountPrice": 8899,
+    "stock": 20,
+    "lowStockThreshold": 4,
+    "rating": 4.9,
+    "reviewsCount": 94,
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Blazing fast read speeds up to 7,000 MB/s for hardcore computing, AAA gaming, and heavy creative workflows.",
+    "specifications": {
+      "Interface": "PCIe Gen 4.0 x4, NVMe 1.3c",
+      "Read Speed": "Up to 7,000 MB/s",
+      "Write Speed": "Up to 5,000 MB/s",
+      "Form Factor": "M.2 (2280)",
+      "Warranty": "5-Year Limited Warranty / 600 TBW"
+    },
+    "features": [
+      "Custom Elpis controller for maximum PCIe 4.0 bandwidth",
+      "Nickel coating and thermal control algorithm to prevent overheating",
+      "Compatible with PS5 internal storage expansion"
+    ]
+  },
+  {
+    "id": "prod-8",
+    "name": "Prestige Iris Plus 750W Mixer Grinder with 4 Stainless Steel Jars",
+    "slug": "prestige-iris-plus-750w-mixer-grinder",
+    "category": "small-appliances",
+    "subcategory": "Mixer Grinders",
+    "brand": "Prestige",
+    "sku": "SRI-PRE-750MG",
+    "price": 4995,
+    "discountPrice": 3199,
+    "stock": 22,
+    "lowStockThreshold": 5,
+    "rating": 4.5,
+    "reviewsCount": 310,
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1588854337236-6889d631faa8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Heavy duty 750-watt motor capable of grinding tough whole spices, wet batters, and fresh juice extraction effortlessly.",
+    "specifications": {
+      "Motor Power": "750 Watts",
+      "Speed Settings": "3 Speeds + Whip pulse",
+      "Jars": "4 (Wet, Dry, Chutney, Transparent Juicer)",
+      "Blade Material": "Superior Grade Stainless Steel",
+      "Warranty": "2 Years Manufacturer Warranty"
+    },
+    "features": [
+      "Overload protection switch prevents motor burnouts",
+      "Ergonomic jar handles for secure, anti-slip grip",
+      "Sturdy anti-skid rubber feet for steady operation"
+    ]
+  },
+  {
+    "id": "prod-9",
+    "name": "Anker 65W GaN II 3-Port Fast Charger (PowerPort III)",
+    "slug": "anker-65w-gan-fast-charger",
+    "category": "mobiles-accessories",
+    "subcategory": "Fast Chargers",
+    "brand": "Anker",
+    "sku": "SRI-ANK-65WGAN",
+    "price": 4499,
+    "discountPrice": 3299,
+    "stock": 35,
+    "lowStockThreshold": 8,
+    "rating": 4.8,
+    "reviewsCount": 88,
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": true,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "GaN II semiconductor technology allows ultra-compact high-speed charging for MacBooks, iPhones, Galaxies, and laptops simultaneously.",
+    "specifications": {
+      "Total Wattage": "65W Max",
+      "Ports": "2x USB-C + 1x USB-A",
+      "Technology": "GaN II & PowerIQ 3.0",
+      "Dimensions": "58% smaller than original 60W chargers",
+      "Warranty": "18 Months Replacement Warranty"
+    },
+    "features": [
+      "Charge a MacBook Pro 13'' at full 65W speed from single USB-C port",
+      "ActiveShield safety monitoring sensors",
+      "Foldable plug design ideal for travel"
+    ]
+  },
+  {
+    "id": "prod-10",
+    "name": "Sony WH-1000XM5 Wireless Industry Leading Noise Cancelling Headphones",
+    "slug": "sony-wh-1000xm5-noise-cancelling-headphones",
+    "category": "audio",
+    "subcategory": "Wireless Headphones",
+    "brand": "Sony",
+    "sku": "SRI-SNY-WHXM5",
+    "price": 34990,
+    "discountPrice": 27990,
+    "stock": 16,
+    "lowStockThreshold": 3,
+    "rating": 4.9,
+    "reviewsCount": 245,
+    "featured": true,
+    "bestSeller": true,
+    "newArrival": false,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Two processors and 8 microphones for unprecedented active noise cancellation and crystal clear calls.",
+    "specifications": {
+      "Battery Life": "Up to 30 Hours with ANC on (40h ANC off)",
+      "Fast Charging": "3 min charge gives 3 hours playback",
+      "Driver Unit": "30mm Carbon Fiber Driver",
+      "Microphones": "4 Beamforming mics with AI noise suppression",
+      "Warranty": "1 Year Sony India Warranty"
+    },
+    "features": [
+      "Auto NC Optimizer adjusts noise cancelling to your wearing condition and atmospheric pressure",
+      "Speak-to-Chat automatically pauses music when you begin speaking",
+      "Multipoint connection connects to 2 Bluetooth devices at once"
+    ]
+  },
+  {
+    "id": "prod-11",
+    "name": "HP Pavilion 15.6-inch Intel Core i7 13th Gen Gaming & Creative Laptop",
+    "slug": "hp-pavilion-i7-13th-gen-laptop",
+    "category": "computers-laptops",
+    "subcategory": "Business Laptops",
+    "brand": "HP",
+    "sku": "SRI-HP-PAV15-I7",
+    "price": 86990,
+    "discountPrice": 74990,
+    "stock": 10,
+    "lowStockThreshold": 2,
+    "rating": 4.7,
+    "reviewsCount": 54,
+    "featured": true,
+    "bestSeller": false,
+    "newArrival": true,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Ultra responsive productivity and multimedia workstation with Intel Core i7-1355U, 16GB DDR5, and 1TB SSD.",
+    "specifications": {
+      "Processor": "13th Gen Intel Core i7-1355U (Up to 5.0 GHz)",
+      "RAM": "16 GB DDR5-5200 MHz RAM",
+      "Storage": "1 TB PCIe NVMe M.2 SSD",
+      "Display": "15.6-inch FHD IPS Micro-edge Anti-glare",
+      "Operating System": "Windows 11 Home + MS Office 2021",
+      "Warranty": "1 Year Onsite Manufacturer Warranty"
+    },
+    "features": [
+      "Audio by B&O with dual stereo speakers",
+      "HP TrueVision 1080p FHD camera with temporal noise reduction",
+      "Fast charging: approx 50% in 45 minutes"
+    ]
+  },
+  {
+    "id": "prod-12",
+    "name": "Corsair K70 RGB PRO Mechanical Gaming Keyboard (Cherry MX Red)",
+    "slug": "corsair-k70-rgb-pro-keyboard",
+    "category": "gaming",
+    "subcategory": "Mechanical Keyboards",
+    "brand": "Corsair",
+    "sku": "SRI-COR-K70PRO",
+    "price": 16999,
+    "discountPrice": 12999,
+    "stock": 15,
+    "lowStockThreshold": 3,
+    "rating": 4.8,
+    "reviewsCount": 77,
+    "featured": false,
+    "bestSeller": true,
+    "newArrival": false,
+    "status": "Active",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Iconic aluminum frame with hyper-processing AXON technology delivering 8000Hz polling rate and smooth linear switches.",
+    "specifications": {
+      "Switches": "100% German Cherry MX Red Linear Switches",
+      "Polling Rate": "8000Hz Hyper-polling with AXON",
+      "Keycaps": "Precision-molded PBT Double-shot 1.5mm",
+      "Lighting": "Per-key Dynamic RGB Backlighting",
+      "Warranty": "2 Years Corsair Warranty"
+    },
+    "features": [
+      "Detachable magnetic soft-touch palm rest included",
+      "Dedicated media keys with aluminum volume roller",
+      "Tournament switch locks static backlight and disables macros"
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: 11 59 123;
+    --color-primary-dark: 7 38 82;
+    --color-secondary: 7 30 61;
+    --color-accent: 242 101 34;
+    --color-surface: 255 255 255;
+    --color-surface-muted: 248 250 252;
+    --color-text: 15 23 42;
+    --color-text-muted: 100 116 139;
+    --color-border: 226 232 240;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 min-h-screen font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display text-slate-900 tracking-tight;
+  }
+}
+
+/* Custom UI Utilities */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+.gradient-brand {
+  background: linear-gradient(135deg, #071E3D 0%, #0B3B7B 60%, #1565C0 100%);
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, #F26522 0%, #FF8042 100%);
+}
+
+/* Swiper custom overrides */
+.swiper-button-next, .swiper-button-prev {
+  color: #0B3B7B !important;
+  background: rgba(255, 255, 255, 0.9);
+  width: 44px !important;
+  height: 44px !important;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.2s ease;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+  font-size: 18px !important;
+  font-weight: bold;
+}
+
+.swiper-button-next:hover, .swiper-button-prev:hover {
+  background: #F26522 !important;
+  color: #FFFFFF !important;
+  transform: scale(1.05);
+}
+
+.swiper-pagination-bullet-active {
+  background: #F26522 !important;
+  width: 24px !important;
+  border-radius: 6px !important;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0B3B7B;
+}

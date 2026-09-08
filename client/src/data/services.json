@@ -1,0 +1,188 @@
+[
+  {
+    "id": "srv-1",
+    "name": "Smart TV Screen & Motherboard Repair",
+    "slug": "smart-tv-screen-repair",
+    "category": "Television & Audio",
+    "startingPrice": 499,
+    "duration": "2 - 4 Hours",
+    "rating": 4.9,
+    "reviewsCount": 184,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80",
+    "description": "Certified diagnosis and repair for LED, OLED, 4K Smart TVs suffering from display flickering, no power, horizontal lines, sound issues, or mainboard failure.",
+    "commonProblems": [
+      "No display or black screen with audio working",
+      "Horizontal or vertical color lines on panel",
+      "Smart TV keeps rebooting on logo",
+      "HDMI ports / Wi-Fi module not detecting",
+      "Power surge / burnt motherboard components"
+    ],
+    "process": [
+      { "step": 1, "title": "On-site / Lab Diagnostic", "desc": "Multimeter and signal testing to isolate faults." },
+      { "step": 2, "title": "Transparent Cost Quotation", "desc": "Itemized cost of original parts & service fee." },
+      { "step": 3, "title": "Micro-soldering & Part Replacement", "desc": "Genuine capacitors, backlight strips, or T-con board replacement." },
+      { "step": 4, "title": "24-Hour Stress Testing & Delivery", "desc": "Full color calibration and 90-day service warranty." }
+    ],
+    "benefits": [
+      "90-Day Warranty on replaced parts",
+      "Genuine manufacturer components only",
+      "Certified electronics hardware technicians",
+      "Free doorstep pickup and delivery in select zones"
+    ],
+    "faqs": [
+      {
+        "q": "Can cracked LED screens be repaired?",
+        "a": "Physical glass cracks require a panel replacement. Our technician will inspect your model and give you the best panel replacement quote."
+      },
+      {
+        "q": "How long does TV repair take?",
+        "a": "Minor component & backlight issues take 2-4 hours. Complete panel or motherboard replacements typically take 24-48 hours."
+      }
+    ]
+  },
+  {
+    "id": "srv-2",
+    "name": "Laptop & Desktop Motherboard Level Service",
+    "slug": "laptop-desktop-motherboard-service",
+    "category": "Computers & Hardware",
+    "startingPrice": 599,
+    "duration": "1 - 3 Hours",
+    "rating": 4.8,
+    "reviewsCount": 220,
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=800&q=80",
+    "description": "Component-level motherboard repair, liquid spill recovery, thermal repasting, RAM/SSD upgrades, and power IC replacements by expert hardware engineers.",
+    "commonProblems": [
+      "Laptop not turning on / dead power circuit",
+      "Overheating and sudden thermal shutdown",
+      "Liquid damage or sticky keyboard/trackpad",
+      "Broken display hinges and laptop body repair",
+      "Blue Screen of Death (BSOD) / Boot loops"
+    ],
+    "process": [
+      { "step": 1, "title": "Hardware Thermal & Voltage Scan", "desc": "Detailed inspection of VRMs, BIOS chip, and GPU power rails." },
+      { "step": 2, "title": "Ultrasonic Cleaning & Desoldering", "desc": "Corrosion removal and IC reballing." },
+      { "step": 3, "title": "Thermal Grizzly Repasting", "desc": "High grade thermal compound application for cool temps." },
+      { "step": 4, "title": "Benchmarking & OS Stability Verification", "desc": "Stress testing under heavy synthetic CPU/GPU loads." }
+    ],
+    "benefits": [
+      "6-Month Motherboard Service Warranty",
+      "No Data Loss Guarantee for storage drives",
+      "High quality thermal paste applied on all jobs",
+      "Instant on-spot diagnostics available"
+    ],
+    "faqs": [
+      {
+        "q": "Will my personal data and hard drive files be safe?",
+        "a": "Yes! We never erase drives unless an OS reinstall is explicitly requested with prior data backup approval."
+      }
+    ]
+  },
+  {
+    "id": "srv-3",
+    "name": "Refrigerator Gas Charging & Compressor Repair",
+    "slug": "refrigerator-gas-charging-compressor-repair",
+    "category": "Home Appliances",
+    "startingPrice": 699,
+    "duration": "2 - 3 Hours",
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+    "description": "Doorstep diagnosis and repair for single door, double door, and inverter refrigerators. Eco-friendly R600a/R134a gas charging, thermostat and relay repairs.",
+    "commonProblems": [
+      "Refrigerator running but not cooling at all",
+      "Excessive ice buildup / Defrost timer failure",
+      "Water leaking inside or beneath vegetable tray",
+      "Clicking compressor noise and vibrating sounds",
+      "Inverter PCB board blinking error codes"
+    ],
+    "process": [
+      { "step": 1, "title": "Nitrogen Leak Pressure Test", "desc": "Locate microscopic capillary or condenser coils leaks." },
+      { "step": 2, "title": "Brazing & Filter Dryer Replacement", "desc": "Welding copper pipes with fresh copper filter dryers." },
+      { "step": 3, "title": "Vacuuming & Exact Refrigerant Weight Charge", "desc": "Digital manifold gauge precision gas filling." },
+      { "step": 4, "title": "Cooling Temperature Benchmark", "desc": "Verify freezer reaches -18°C and fridge reaches 4°C." }
+    ],
+    "benefits": [
+      "Genuine manufacturer relays and capacitors",
+      "100% pure certified refrigerant gas",
+      "90-Day Cooling Guarantee",
+      "Doorstep service within 2 hours of booking"
+    ],
+    "faqs": [
+      {
+        "q": "Do you repair Inverter PCB boards?",
+        "a": "Yes, we have specialized electronic benches to repair inverter inverter compressor controller boards."
+      }
+    ]
+  },
+  {
+    "id": "srv-4",
+    "name": "Washing Machine Motor & PCB Board Service",
+    "slug": "washing-machine-motor-pcb-service",
+    "category": "Home Appliances",
+    "startingPrice": 549,
+    "duration": "1.5 - 3 Hours",
+    "rating": 4.7,
+    "reviewsCount": 135,
+    "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=800&q=80",
+    "description": "Expert repair for Front Load, Top Load, and Semi-Automatic washing machines. Drain pump, inlet valve, drum bearings, and PCB board restoration.",
+    "commonProblems": [
+      "Washing machine not spinning or draining water",
+      "Loud vibrating knocking noise during spin cycle",
+      "Water overflowing or inlet valve not shutting off",
+      "Error codes (e.g. dE, IE, OE, LE, UE) flashing on screen",
+      "Machine tripping circuit breaker when turned on"
+    ],
+    "process": [
+      { "step": 1, "title": "Diagnostic Run & Sensor Audit", "desc": "Test pressure sensor, door lock switch, and motor carbon brushes." },
+      { "step": 2, "title": "Drain Pump & Drum Inspection", "desc": "Clear debris, inspect drum spiders and spider arms." },
+      { "step": 3, "title": "Part Replacement / PCB Soldering", "desc": "Replace worn shock absorbers, belts, or triac circuits." },
+      { "step": 4, "title": "Full Cycle Hygiene Test", "desc": "Run tub-clean and spin test with balancing check." }
+    ],
+    "benefits": [
+      "Original brand spare parts with warranty",
+      "Same-day doorstep appointment",
+      "Experienced technicians for all major brands (LG, Samsung, IFB, Bosch, Whirlpool)"
+    ],
+    "faqs": [
+      {
+        "q": "Why is my washing machine making a loud jet engine sound?",
+        "a": "This usually indicates worn drum bearings and water seal breakdown. We can replace bearings on-site or at our service center."
+      }
+    ]
+  },
+  {
+    "id": "srv-5",
+    "name": "Smartphone Screen, Battery & Charging Port Repair",
+    "slug": "smartphone-screen-battery-repair",
+    "category": "Mobiles & Gadgets",
+    "startingPrice": 399,
+    "duration": "45 - 90 Minutes",
+    "rating": 4.9,
+    "reviewsCount": 290,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "description": "Express phone repair for Apple iPhones, Samsung Galaxy, OnePlus, Xiaomi, and Vivo. Original AMOLED/OLED screens, genuine high-capacity batteries, and sub-board charging flex replacements.",
+    "commonProblems": [
+      "Cracked glass / touch digitizer not responding",
+      "Battery draining fast or phone dying at 20%",
+      "Loose USB Type-C / Lightning port that won't charge",
+      "Ear speaker or loud speaker crackling / low sound",
+      "Microphone not picking up audio during calls"
+    ],
+    "process": [
+      { "step": 1, "title": "Laser Frame Separation", "desc": "Careful heat pad opening without damaging frame." },
+      { "step": 2, "title": "Screen & Battery Transplant", "desc": "TrueTone transfer, water-seal gasket reapplication." },
+      { "step": 3, "title": "Hardware Multi-Touch Verification", "desc": "Test brightness sensor, proximity sensor, and cameras." }
+    ],
+    "benefits": [
+      "Express 45-minute turnaround",
+      "Water resistance gasket reapplied",
+      "6-Month Replacement Screen Warranty"
+    ],
+    "faqs": [
+      {
+        "q": "Will Face ID and TrueTone still work after screen replacement?",
+        "a": "Yes! We use specialized EEPROM programmers to preserve True Tone and Face ID."
+      }
+    ]
+  }
+]

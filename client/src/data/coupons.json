@@ -1,0 +1,38 @@
+[
+  {
+    "code": "SRI100",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minimumOrder": 999,
+    "maximumDiscount": 1000,
+    "expiry": "2026-12-31",
+    "usageLimit": 500,
+    "usedCount": 42,
+    "active": true,
+    "description": "10% OFF on all electronics and appliance orders above ₹999."
+  },
+  {
+    "code": "WELCOME500",
+    "discountType": "flat",
+    "discountValue": 500,
+    "minimumOrder": 4999,
+    "maximumDiscount": 500,
+    "expiry": "2026-12-31",
+    "usageLimit": 1000,
+    "usedCount": 189,
+    "active": true,
+    "description": "Flat ₹500 OFF on your tech shopping above ₹4,999."
+  },
+  {
+    "code": "SRISERVICE50",
+    "discountType": "flat",
+    "discountValue": 150,
+    "minimumOrder": 499,
+    "maximumDiscount": 150,
+    "expiry": "2026-12-31",
+    "usageLimit": 200,
+    "usedCount": 31,
+    "active": true,
+    "description": "₹150 discount on any hardware/electronics service booking."
+  }
+]

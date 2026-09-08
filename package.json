@@ -1,0 +1,10 @@
+{
+  "name": "sri-innovations",
+  "version": "1.0.0",
+  "description": "Sri Innovations Full-Stack E-Commerce & Service Booking Platform",
+  "scripts": {
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "node server/server.js",
+    "build:client": "npm --prefix client run build"
+  }
+}
