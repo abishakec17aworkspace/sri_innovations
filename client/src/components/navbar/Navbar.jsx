@@ -42,7 +42,7 @@ export const Navbar = () => {
           </div>
           <div className="flex items-center space-x-4">
             <Link to="/services" className="hover:text-brand-accent transition-colors flex items-center gap-1 text-brand-accent font-medium">
-              <Wrench className="w-3.5 h-3.5" /> Book Doorstep Service
+              <Wrench className="w-3.5 h-3.5" /> Book Doorstep Services
             </Link>
             <span className="text-slate-500">|</span>
             <Link to="/about" className="hover:text-white transition-colors">AboutUs</Link>
